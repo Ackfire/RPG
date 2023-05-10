@@ -7,7 +7,7 @@
 This project is a part of the **first** year of Epitech. <br>
 We had **1 month** to complete it. :spiral_calendar: <br>
 
-The goal of this project is create a **RPG game** in **C** with the **CSFML library**. :video_game:<br>
+The goal of this project was to create a **RPG game** in **C** with the **CSFML library**. :video_game:<br>
 
 ### Features
 
