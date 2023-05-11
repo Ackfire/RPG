@@ -28,8 +28,11 @@ The goal of this project was to create a **RPG game** in **C** with the **CSFML 
 * Run `make` in your bash / command line
 * Run `./my_rpg` <br>
 
+<br>
+
 > **Warning**
-> Make sure you have the CSFML library installed or the program won't work.
+> Make sure the CSFML library is installed or the program won't work.
+
 <br>
 
 To try this program, you can to use this **command** to automatically play the game and when you quit it, clean the repository: <br>
